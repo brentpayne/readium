@@ -14,6 +14,11 @@ to the beginning. The JS goes out and takes the first image inside this article 
 
 If you give your images an alt text, it gets added automatically as figcaption beneath the image (sorry, no links or other HTML stuff). Awesomeness!
 
+## Installation
+
+1. [Download the theme](https://github.com/brentpayne/readium/archive/master.zip) from GitHub.
+2. Upload the theme as described in the [Ghost Documentation](http://docs.ghost.org/usage/settings/).
+
 ## Features
 - Mobile-First Design Aproach
 - Fully Responsive layout
